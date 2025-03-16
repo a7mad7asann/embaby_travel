@@ -1,0 +1,337 @@
+{
+  "navbar": {
+    "en": {
+      "logo": "/images/logo.png",
+      "home": "Home",
+      "about": "About Us",
+      "tours": "Tours",
+      "login": "Login",
+      "register": "Sign Up"
+    },
+    "ar": {
+      "logo": "/images/logo.png",
+      "home": "الرئيسية",
+      "about": "من نحن",
+      "tours": "الجولات",
+      "login": "تسجيل الدخول",
+      "register": "اشتراك"
+    }
+  },
+  "heroSection": {
+    "en": {
+      "title": "Traveling opens the door to creating memories",
+      "description": "Explore the world and create unforgettable experiences. Discover new places, meet new people, and make every journey a story worth telling.",
+      "images": [
+        "/images/travel1.png",
+        "/images/travel2.png",
+        "/images/travel3.png"
+      ]
+    },
+    "ar": {
+      "title": "السفر يفتح الباب لخلق الذكريات",
+      "description": "استكشف العالم واصنع تجارب لا تُنسى. اكتشف أماكن جديدة، تعرف على أشخاص جدد، واجعل كل رحلة قصة تستحق السرد.",
+      "images": [
+        "/images/travel1.png",
+        "/images/travel2.png",
+        "/images/travel3.png"
+      ]
+    }
+  },
+  "services": {
+    "en": {
+      "sectionTitle": "What we serve",
+      "mainTitle": "We offer our best services",
+      "features": [
+        {
+          "title": "Calculate Weather",
+          "description": "Lorem ipsum dolor sit amet, adipisicing elit.",
+          "icon": "weather"
+        },
+        {
+          "title": "Best Tour Guide",
+          "description": "Lorem ipsum dolor sit amet, adipisicing elit.",
+          "icon": "guide"
+        },
+        {
+          "title": "Customization",
+          "description": "Lorem ipsum dolor sit amet, adipisicing elit.",
+          "icon": "customization"
+        }
+      ]
+    },
+    "ar": {
+      "sectionTitle": "ما نقدمه",
+      "mainTitle": "نقدم أفضل خدماتنا",
+      "features": [
+        {
+          "title": "حساب الطقس",
+          "description": "لوريم إيبسوم دولور سيت أميت، أديبسيكينج إيليت.",
+          "icon": "weather"
+        },
+        {
+          "title": "أفضل دليل سياحي",
+          "description": "لوريم إيبسوم دولور سيت أميت، أديبسيكينج إيليت.",
+          "icon": "guide"
+        },
+        {
+          "title": "تخصيص الرحلة",
+          "description": "لوريم إيبسوم دولور سيت أميت، أديبسيكينج إيليت.",
+          "icon": "customization"
+        }
+      ]
+    }
+  },
+    "gallerySection": {
+      "exploreButton": {
+        "en": "Explore",
+        "ar": "استكشف"
+      },
+      "title": {
+        "en": "Our featured tours",
+        "ar": "جولاتنا المميزة"
+      },
+      "images": [
+        {
+          "src": "/images/gallery1.png",
+          "alt": { "en": "Big Ben", "ar": "بيج بن" },
+          "description": { "en": "LONDON", "ar": "لندن" }
+        },
+        {
+          "src": "/images/gallery2.png",
+          "alt": { "en": "Bali", "ar": "بالي" },
+          "description": { "en": "INDONESIA", "ar": "إندونيسيا" }
+        },
+        {
+          "src": "/images/gallery3.png",
+          "alt": { "en": "Sydney", "ar": "سيدني" },
+          "description": { "en": "AUSTRALIA", "ar": "أستراليا" }
+        },
+        {
+          "src": "/images/gallery4.png",
+          "alt": { "en": "Dubai", "ar": "دبي" },
+          "description": { "en": "UAE", "ar": "الإمارات" }
+        },
+        {
+          "src": "/images/gallery5.png",
+          "alt": { "en": "Phetchabun", "ar": "بتشابون" },
+          "description": { "en": "THAILAND", "ar": "تايلاند" }
+        },
+        {
+          "src": "/images/gallery6.png",
+          "alt": { "en": "Paris", "ar": "باريس" },
+          "description": { "en": "FRANCE", "ar": "فرنسا" }
+        },
+        {
+          "src": "/images/gallery7.png",
+          "alt": { "en": "Wuxi", "ar": "ووكسي" },
+          "description": { "en": "CHINA", "ar": "الصين" }
+        }
+      ]
+    },
+    "experienceSection": {
+    "badge": {
+      "en": "Experience",
+      "ar": "الخبرة"
+    },
+    "title": {
+      "en": "With our all experience we will serve you",
+      "ar": "بكل خبراتنا، سنخدمك"
+    },
+    "description": {
+      "en": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas aliquam, hic tempora inventore suscipit unde.",
+      "ar": "نص تجريبي يصف الخبرة والخدمات المقدمة من الشركة."
+    },
+    "stats": [
+      {
+        "number": "12",
+        "label": {
+          "en": "Successful trip",
+          "ar": "رحلة ناجحة"
+        }
+      },
+      {
+        "number": "2",
+        "label": {
+          "en": "Regular clients",
+          "ar": "عملاء دائمون"
+        }
+      },
+      {
+        "number": "15",
+        "label": {
+          "en": "Year experience",
+          "ar": "سنوات من الخبرة"
+        }
+      }
+    ],
+    "highlight": {
+      "location": {
+        "en": "Los Angeles",
+        "ar": "لوس أنجلوس"
+      },
+      "activity": {
+        "en": "Mountain Hiking",
+        "ar": "التسلق الجبلي"
+      },
+      "cta": {
+        "en": "See details + Join Now",
+        "ar": "عرض التفاصيل + انضم الآن"
+      }
+    },
+    "image": "/images/experience.png"
+  },
+    "memories": {
+      "title": {
+        "en": "Visit our customers tour gallery",
+        "ar": "قم بزيارة معرض جولات عملائنا"
+      },
+      "exploreButton": {
+        "en": "Explore",
+        "ar": "استكشاف"
+      },
+      "images": [
+        {
+          "src": "/images/memories1.png",
+          "alt": {
+            "en": "Mountain Adventure",
+            "ar": "مغامرة جبلية"
+          },
+          "description": {
+            "en": "Hiking in the stunning mountain landscapes.",
+            "ar": "التنزه في مناظر الجبال الخلابة."
+          }
+        },
+        {
+          "src": "/images/memories2.png",
+          "alt": {
+            "en": "Thermal Pools",
+            "ar": "برك حرارية"
+          },
+          "description": {
+            "en": "Relaxing in the natural thermal pools.",
+            "ar": "الاسترخاء في البرك الحرارية الطبيعية."
+          }
+        },
+        {
+          "src": "/images/memories3.png",
+          "alt": {
+            "en": "Scenic Viewpoint",
+            "ar": "منظر بانورامي"
+          },
+          "description": {
+            "en": "Enjoying breathtaking scenic views.",
+            "ar": "الاستمتاع بالمناظر الطبيعية الخلابة."
+          }
+        },
+        {
+          "src": "/images/memories4.png",
+          "alt": {
+            "en": "Tropical Beach",
+            "ar": "شاطئ استوائي"
+          },
+          "description": {
+            "en": "Crystal-clear waters and white sandy beaches.",
+            "ar": "مياه صافية وشواطئ رملية بيضاء."
+          }
+        },
+        {
+          "src": "/images/memories5.png",
+          "alt": {
+            "en": "Island Getaway",
+            "ar": "ملاذ جزيري"
+          },
+          "description": {
+            "en": "Experience a dream island escape.",
+            "ar": "تجربة ملاذ جزيري ساحر."
+          }
+        },
+        {
+          "src": "/images/memories6.png",
+          "alt": {
+            "en": "Historical Landmark",
+            "ar": "معلم تاريخي"
+          },
+          "description": {
+            "en": "Discover historical and cultural landmarks.",
+            "ar": "اكتشف المعالم التاريخية والثقافية."
+          }
+        }
+      ]
+    },
+    
+    "en": {
+      "labels": {
+        "booking": "Book a Trip",
+        "name": "Full Name",
+        "travelDate": "Travel Date",
+        "departureTime": "Departure Time (HH:MM)",
+        "arrivalTime": "Arrival Time (HH:MM)",
+        "travelers": "Number of Travelers",
+        "destination": "Destination"
+      }
+    },
+    "ar": {
+      "labels": {
+        "booking": "احجز رحلة",
+        "name": "الاسم الكامل",
+        "travelDate": "تاريخ السفر",
+        "departureTime": "وقت المغادرة (HH:MM)",
+        "arrivalTime": "وقت الوصول (HH:MM)",
+        "travelers": "عدد الأفراد",
+        "destination": "الوجهة"
+      }
+    },
+      
+    "footer": {
+        "en": {
+          "logo": "/images/logo.png",
+          "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+          "copyright": "© 2024 YourCompany. All Rights Reserved",
+          "social": {
+            "youtube": "#",
+            "twitter": "#",
+            "facebook": "#",
+            "instagram": "#"
+          },
+          "links": {
+            "title": "Quick Links",
+            "items": ["Gallery", "Login", "Register"]
+          },
+          "contact": {
+            "title": "Contact",
+            "address": "Lorem Street, City",
+            "email": "xyz@mail.com",
+            "phone": "00022200222"
+          }
+        },
+        "ar": {
+          "logo": "/images/logo.png",
+          "description": "لوريم إيبسوم هو نص وهمي يستخدم في الطباعة.",
+          "copyright": "© 2024 شركتك. جميع الحقوق محفوظة",
+          "social": {
+            "youtube": "#",
+            "twitter": "#",
+            "facebook": "#",
+            "instagram": "#"
+          },
+          "links": {
+            "title": "روابط سريعة",
+            "items": ["المعرض", "تسجيل الدخول", "التسجيل"]
+          },
+          "contact": {
+            "title": "اتصل بنا",
+            "address": "شارع لوريم، المدينة",
+            "email": "xyz@mail.com",
+            "phone": "00022200222"
+          }
+        }
+      }
+    
+    
+  
+    
+    
+    
+}
+  
+
